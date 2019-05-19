@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://coarielae.leibro.com/sitemap.xml
